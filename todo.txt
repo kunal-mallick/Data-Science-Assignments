@@ -6,4 +6,4 @@ Project Description
   - [ ] Sub-task or description  
 
 ### Completed Column ✓
-- [x] Completed task title  
+- [ ] Completed task title  
