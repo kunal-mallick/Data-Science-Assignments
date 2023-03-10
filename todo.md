@@ -1,5 +1,9 @@
-#50_startups
+50_startups
   create Q1_50_startups.ipynb
-
-#ToyotaCorolla
-  create Q2_ToyotaCorolla.ipynb
+  add lib
+  add df
+  eda
+    des
+    info
+    na
+    
