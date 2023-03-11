@@ -15,15 +15,15 @@
     find outlier {cm:2023-03-11}
     rename column {cm:2023-03-11}
 
-  model building
-    create normal model
-    use samarry()
-    build Simple Linear Regression with co-liner column
-    Calculate VIF
-    Subset Selection(.aic)
+  model building {cm:2023-03-11} {c}
+    create normal model {cm:2023-03-11}
+    use samarry() {cm:2023-03-11}
+    build Simple Linear Regression with co-liner column {cm:2023-03-11}
+    Calculate VIF {cm:2023-03-11}
+    Subset Selection(.aic) {cm:2023-03-11}
 
-  MODEL VALIDATION TECHNIQUES {c}
-    Residual Analysis {c}
+  MODEL VALIDATION TECHNIQUES
+    Residual Analysis
       Q-Q plot(.resid)
     Residual plot of Homoscedasticity
       build scatter plot with fitted values and residuals
