@@ -1,4 +1,4 @@
-50_startups
+50_startups {c}
 
   resources {cm:2023-03-11} {c}
     create Q1_50_startups.ipynb {cm:2023-03-11}
@@ -22,22 +22,21 @@
     Calculate VIF {cm:2023-03-11}
     Subset Selection(.aic) {cm:2023-03-11}
 
-  MODEL VALIDATION TECHNIQUES
-    Residual Analysis
-      Q-Q plot(.resid)
-    Residual plot of Homoscedasticity
-      build scatter plot with fitted values and residuals
-    Residual VS Regressor
-      for all column(R&D Spend,Administration,Marketing Spend)
+  MODEL VALIDATION TECHNIQUES {c} {cm:2023-03-13}
+    Residual Analysis {cm:2023-03-12} {c}
+      Q-Q plot(.resid) {cm:2023-03-12}
+    Residual plot of Homoscedasticity {cm:2023-03-12} {c}
+      build scatter plot with fitted values and residuals {cm:2023-03-12}
+    Residual VS Regressor {cm:2023-03-12}
+      for all column(R&D Spend,Administration,Marketing Spend) {cm:2023-03-12}
 
-  MODEL DELETION TECHNIQUES {c}
-    Cook's Distance {c}
-      Cook's distance plot
-      Calculate cutoff
+  MODEL DELETION TECHNIQUES {c} {cm:2023-03-13}
+    Cook's Distance {cm:2023-03-13}
+      Cook's distance plot {cm:2023-03-13}
+      Calculate cutoff {cm:2023-03-13}
       Influence Plot
-    Influence Plot {c}
       drop influencer point
       reset the index
       create new model after droping influener point
 
-  build final model
+  build final model {cm:2023-03-13}
