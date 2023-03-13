@@ -1,14 +1,14 @@
 Model Building Steps
 
-  resources
-    create .ipynb
-    add lib
-    add df
+  resources {cm:2023-03-14} {c}
+    create .ipynb {cm:2023-03-14}
+    add lib {cm:2023-03-14}
+    add df {cm:2023-03-14}
   
   eda
-    des
-    info
-    na
+    des {cm:2023-03-14}
+    info {cm:2023-03-14}
+    na {cm:2023-03-14}
     Visualiztion
     correlation(meatmap)
     find duplicate value
