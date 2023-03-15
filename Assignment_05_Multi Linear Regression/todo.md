@@ -9,7 +9,7 @@ Model Building Steps
     des {cm:2023-03-14}
     info {cm:2023-03-14}
     na {cm:2023-03-14}
-    Visualiztion
+    Visualiztion {cm:2023-03-15}
     correlation(meatmap)
     find duplicate value
     find outlier
