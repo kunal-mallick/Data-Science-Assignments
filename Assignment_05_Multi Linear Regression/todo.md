@@ -1,4 +1,4 @@
-Model Building Steps
+Model Building Steps {c}
 
   resources {cm:2023-03-14} {c}
     create .ipynb {cm:2023-03-14}
@@ -10,14 +10,14 @@ Model Building Steps
     info {cm:2023-03-14}
     na {cm:2023-03-14}
     Visualiztion {cm:2023-03-15}
-    correlation(meatmap)
-    find duplicate value
-    find outlier
-    rename column
+    correlation(meatmap) {cm:2023-03-16}
+    find duplicate value {cm:2023-03-16}
+    find outlier {cm:2023-03-16}
+    rename column {cm:2023-03-16}
 
   model building
-    create normal model
-    use samarry()
+    create normal model {cm:2023-03-16}
+    use samarry() {cm:2023-03-16}
     build Simple Linear Regression with co-liner column
     Calculate VIF
     Subset Selection(.aic)
