@@ -1,34 +1,34 @@
-Model Building Steps
+Model Building Steps {c}
 
   resources {cm:2023-03-14} {c}
     create .ipynb {cm:2023-03-14}
     add lib {cm:2023-03-14}
     add df {cm:2023-03-14}
   
-  eda
+  eda {cm:2023-03-16} {c}
     des {cm:2023-03-14}
     info {cm:2023-03-14}
     na {cm:2023-03-14}
-    Visualiztion
-    correlation(meatmap)
-    find duplicate value
-    find outlier
-    rename column
+    Visualiztion {cm:2023-03-15}
+    correlation(meatmap) {cm:2023-03-16}
+    find duplicate value {cm:2023-03-16}
+    find outlier {cm:2023-03-16}
+    rename column {cm:2023-03-16}
 
-  model building
-    create normal model
-    use samarry()
+  model building {cm:2023-03-16} {c}
+    create normal model {cm:2023-03-16}
+    use samarry() {cm:2023-03-16}
     build Simple Linear Regression with co-liner column
-    Calculate VIF
+    Calculate VIF {cm:2023-03-16}
     Subset Selection(.aic)
 
-  MODEL VALIDATION TECHNIQUES
-    Residual Analysis
-      Q-Q plot(.resid)
-    Residual plot of Homoscedasticity
-      build scatter plot with fitted values and residuals
-    Residual VS Regressor {c}
-      for all column(R&D Spend,Administration,Marketing Spend)
+  MODEL VALIDATION TECHNIQUES {cm:2023-03-16} {c}
+    Residual Analysis {cm:2023-03-16}
+      Q-Q plot(.resid) {cm:2023-03-16}
+    Residual plot of Homoscedasticity {cm:2023-03-16}
+      build scatter plot with fitted values and residuals {cm:2023-03-16}
+    Residual VS Regressor {c} {cm:2023-03-16}
+      for all column(R&D Spend,Administration,Marketing Spend) {cm:2023-03-16}
 
   MODEL DELETION TECHNIQUES
     Cook's Distance
