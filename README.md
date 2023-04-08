@@ -51,8 +51,9 @@ There are 18 assignment folder with 3 sub-folder:
 
 **Note** : Basic Statistics Level 1 and 2 may not have Dataset folder, as they have statistics question.
 ##  Current Working Directory
-- Current Directory : Association Rules
-- Current File : ----
+- Current Branch : Working
+- Current Folder : Association Rules
+- Current File : Q2_my_movies.ipynb
 ##  Tool Used
 - **Language** : Python
 - **Libraries** :
