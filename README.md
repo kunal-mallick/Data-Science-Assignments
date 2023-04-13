@@ -51,9 +51,9 @@ There are 18 assignment folder with 3 sub-folder:
 
 **Note** : Basic Statistics Level 1 and 2 may not have Dataset folder, as they have statistics question.
 ##  Current Working Directory
-- Current Branch : Working
-- Current Folder : Recommendation system
-- Current File : Q1_book.ipynb
+- Current Branch : ----
+- Current Folder : ----
+- Current File : ----
 ##  Tool Used
 - **Language** : Python
 - **Libraries** :
