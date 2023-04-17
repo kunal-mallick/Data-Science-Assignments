@@ -52,8 +52,8 @@ There are 18 assignment folder with 3 sub-folder:
 **Note** : Basic Statistics Level 1 and 2 may not have Dataset folder, as they have statistics question.
 ##  Current Working Directory
 - Current Branch : Working
-- Current Folder : Decision tree
-- Current File : Q2_Fraud_check.ipynb
+- Current Folder : KNN
+- Current File : Q2_Zoo.ipynb
 ##  Tool Used
 - **Language** : Python
 - **Libraries** :
