@@ -53,7 +53,7 @@ There are 18 assignment folder with 3 sub-folder:
 ##  Current Working Directory
 - Current Branch : Working
 - Current Folder : Decision tree
-- Current File : Q1_Company_Data.ipynb
+- Current File : Q2_Fraud_check.ipynb
 ##  Tool Used
 - **Language** : Python
 - **Libraries** :
