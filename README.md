@@ -4,7 +4,10 @@
 ![repo-size](https://img.shields.io/github/repo-size/kunal-mallick/Data-Science-Assignments?style=social)
 ![directory-file-count](https://img.shields.io/github/directory-file-count/kunal-mallick/Data-Science-Assignments?style=social)
 
-This is all Data Science Assignments Files. I am currently working on it, so you may not find some files here.
+I have completed and submitted all of them successfully.
+The assignments cover various topics such as data collection, cleaning, analysis, visualization, programming, and machine learning.
+
+Assignments 1 - 7 are approved by the assignment team and demonstrate my skills and knowledge in data science.
 ## Assignments Topices
 
 - Assignment 1 : Basic Statistics_Level 1
@@ -50,15 +53,13 @@ There are 18 assignment folder with 3 sub-folder:
  - Dataset : All .csv, .xlsx file are kept here
 
 **Note** : Basic Statistics Level 1 and 2 may not have Dataset folder, as they have statistics question.
-##  Current Working Directory
-- Current Branch : Working
-- Current Folder : KNN
-- Current File : Q2_Zoo.ipynb
+##  Current Topic For Approval
+- Current Folder : PCA
 ##  Tool Used
 - **Language** : Python
 - **Libraries** :
     - **Visualization** : Matplotlib, Seaborn, Plotly
-    - **Model Building** : Pandas, NumPy, Sklearn
+    - **Model Building** : Sklearn, TensorFlow
     - **Deployment** : Pickle, Streamlit
 - **Dataset** : .csv, .xlsx
 
